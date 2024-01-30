@@ -1,23 +1,23 @@
 {
   "channel_type": "wx",
   "model": "",
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "JXJ",
+    "@JXJ"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "[JXJ] ",
   "group_chat_prefix": [
-    "@bot"
+    "@JXJ"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "JXJ测试群",
+    "JXJ测试群2"
   ],
   "image_create_prefix": [
     "画"
